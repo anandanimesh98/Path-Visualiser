@@ -5,4 +5,4 @@
 - A* Algorithm
 ## Instructions to Run
 - Clone the repository and run the index.html file.
-- Choose the starting, ending nodes and path blockages and select the algorithm which you want to run.
+- Choose the path blockages and select the algorithm which you want to run.
